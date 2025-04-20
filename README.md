@@ -23,3 +23,7 @@ Sure! Here's a version of the Git workflow **without code**, just as simple step
 8. **Push your project** to GitHub (usually on the `main` branch).
 
 9. **Deploy with GitHub Pages** by going to your repo’s settings and enabling GitHub Pages (choose `main` as the source).
+## creation of features of the page
+Brach 1:Welcome_page
+branch 2:Menu_page
+branch 3:contact_page
